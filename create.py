@@ -36,7 +36,7 @@ def createUser(session,domain,username,password):
 
         'action':'create',
 
-        'domain':'sendnews.top',
+        'domain':'{}'.format(domain),
 
         'user':'{}'.format(username),
 
