@@ -6,4 +6,6 @@ Run main.py with python and use it.
 We create windows form by pyqt5 for create email.
 If you need it message to me.
 
+Email:smmhosseini.shahed@gmail.com
+
 good luck.
